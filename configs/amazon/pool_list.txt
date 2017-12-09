@@ -1,0 +1,1 @@
+{"pool_address" : "at01.supportxmr.com:3333", "wallet_address" : "461cEUSVAP44QxVuD6iid4PDxEd4MGp5wVym3Z5PBa3QafkFFuv5E9xPT4qsGWfiUANV33G5hvdDx1mVgExtjBSKJQwJYXG", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
