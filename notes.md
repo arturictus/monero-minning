@@ -3,7 +3,6 @@ https://getmonero.org/resources/user-guides/mine-to-pool.html
 
 - install NVIDIA DRIVERS
 http://christopher5106.github.io/nvidia/2016/12/30/commands-nvidia-install-ubuntu-16-04.html
-
 - install CUDA
 - compile
 
@@ -15,8 +14,7 @@ mkdir build-$(gcc -dumpmachine)
 cd $_
 cmake ../
 make -j$(nproc)
-<!-- cp ../config.txt bin/ -->
-cd bin
+# cp ../config.txt bin/
 ```
 run the miner:
 
