@@ -1,0 +1,1 @@
+/usr/bin/c++   -march=native -mtune=native  -msse2 -maes -O3 -DNDEBUG   CMakeFiles/xmr-stak.dir/xmrstak/cli/cli-miner.cpp.o  -o bin/xmr-stak -rdynamic -lpthread -lmicrohttpd -lssl -lcrypto bin/libxmr-stak-c.a bin/libxmr-stak-backend.a bin/libxmr-stak-c.a -lpthread -lmicrohttpd -lssl -lcrypto -ldl 
