@@ -1,0 +1,154 @@
+[2017-12-09 13:37:02] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:02] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:02] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:02] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:02] : MEMORY ALLOC FAILED: mmap failed
+-------------------------------------------------------------------
+xmr-stak 2.1.0 30888a3
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+Based on NVIDIA mining code by KlausT and psychocrypt.
+
+Configurable dev donation level is set to 2.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2017-12-09 13:37:02] : Start mining: MONERO
+[2017-12-09 13:37:03] : Starting NVIDIA GPU thread 0, no affinity.
+[2017-12-09 13:37:03] : Starting NVIDIA GPU thread 1, no affinity.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting NVIDIA GPU thread 2, no affinity.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting NVIDIA GPU thread 3, no affinity.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 3.
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 4.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 5.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 7.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 8.
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 9.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 10.
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 11.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 12.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 13.
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 14.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 15.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 16.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 17.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 18.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 19.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 20.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 21.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 22.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 23.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 24.
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 25.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 26.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 27.
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 28.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 29.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Starting 1x thread, affinity: 30.
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : MEMORY ALLOC FAILED: mmap failed
+[2017-12-09 13:37:03] : Fast-connecting to at01.supportxmr.com:3333 pool ...
+[2017-12-09 13:37:03] : Pool at01.supportxmr.com:3333 connected. Logging in...
+[2017-12-09 13:37:04] : Difficulty changed. Now: 1000.
+[2017-12-09 13:37:04] : Pool logged in.
+[2017-12-09 13:37:04] : Difficulty changed. Now: 1000.
+[2017-12-09 13:37:04] : New block detected.
+[2017-12-09 13:37:07] : Difficulty changed. Now: 2000.
+[2017-12-09 13:37:07] : New block detected.
+[2017-12-09 13:37:08] : Result accepted by the pool.
+[2017-12-09 13:37:08] : Result accepted by the pool.
+[2017-12-09 13:37:08] : Result accepted by the pool.
+[2017-12-09 13:37:09] : Result accepted by the pool.
+[2017-12-09 13:37:14] : Result accepted by the pool.
+[2017-12-09 13:37:14] : Result accepted by the pool.
+[2017-12-09 13:37:14] : Result accepted by the pool.
+[2017-12-09 13:37:17] : Result accepted by the pool.
+[2017-12-09 13:37:18] : Result accepted by the pool.
+[2017-12-09 13:37:18] : Result accepted by the pool.
+[2017-12-09 13:37:19] : Result accepted by the pool.
+[2017-12-09 13:37:21] : Result accepted by the pool.
+[2017-12-09 13:37:22] : Result accepted by the pool.
+[2017-12-09 13:37:22] : Result accepted by the pool.
+[2017-12-09 13:37:23] : Result accepted by the pool.
+[2017-12-09 13:37:23] : Result accepted by the pool.
+[2017-12-09 13:37:24] : Result accepted by the pool.
+[2017-12-09 13:37:24] : Result accepted by the pool.
+[2017-12-09 13:37:25] : Result accepted by the pool.
+[2017-12-09 13:37:25] : Result accepted by the pool.
+[2017-12-09 13:37:25] : Result accepted by the pool.
+[2017-12-09 13:37:26] : Result accepted by the pool.
+[2017-12-09 13:37:30] : Result accepted by the pool.
+[2017-12-09 13:37:31] : Result accepted by the pool.
+[2017-12-09 13:37:31] : Result accepted by the pool.
+[2017-12-09 13:37:32] : Result accepted by the pool.
+[2017-12-09 13:37:34] : Result accepted by the pool.
+[2017-12-09 13:37:36] : Result accepted by the pool.
+[2017-12-09 13:37:38] : Result accepted by the pool.
+[2017-12-09 13:37:39] : Result accepted by the pool.
+[2017-12-09 13:37:41] : Result accepted by the pool.
+[2017-12-09 13:37:41] : Result accepted by the pool.
+[2017-12-09 13:37:44] : Result accepted by the pool.
+[2017-12-09 13:37:48] : Result accepted by the pool.
+[2017-12-09 13:37:51] : Result accepted by the pool.
+[2017-12-09 13:37:51] : Result accepted by the pool.
+[2017-12-09 13:37:51] : Result accepted by the pool.
+[2017-12-09 13:37:52] : Result accepted by the pool.
+[2017-12-09 13:37:54] : Result accepted by the pool.
+[2017-12-09 13:37:55] : Result accepted by the pool.
+[2017-12-09 13:37:56] : Result accepted by the pool.
+[2017-12-09 13:37:57] : Result accepted by the pool.
+[2017-12-09 13:37:58] : Result accepted by the pool.
+[2017-12-09 13:37:58] : Result accepted by the pool.
+[2017-12-09 13:37:59] : Result accepted by the pool.
+[2017-12-09 13:38:01] : Result accepted by the pool.
+[2017-12-09 13:38:03] : Result accepted by the pool.
+[2017-12-09 13:38:04] : Result accepted by the pool.
+[2017-12-09 13:38:04] : Result accepted by the pool.
+[2017-12-09 13:38:05] : Result accepted by the pool.
+[2017-12-09 13:38:05] : Result accepted by the pool.
+[2017-12-09 13:38:05] : Difficulty changed. Now: 47490.
+[2017-12-09 13:38:05] : New block detected.
+[2017-12-09 13:38:08] : Result accepted by the pool.
+[2017-12-09 13:38:11] : Result accepted by the pool.
+[2017-12-09 13:38:15] : Result accepted by the pool.
+[2017-12-09 13:38:19] : Result accepted by the pool.
+[2017-12-09 13:38:35] : Result accepted by the pool.
+[2017-12-09 13:39:05] : Difficulty changed. Now: 72120.
+[2017-12-09 13:39:05] : New block detected.
+[2017-12-09 13:39:08] : Result accepted by the pool.
+[2017-12-09 13:39:46] : New block detected.
+[2017-12-09 13:40:05] : Difficulty changed. Now: 56070.
+[2017-12-0

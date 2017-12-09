@@ -1,0 +1,10 @@
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/install.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/list_install_components.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/install/local.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/install/strip.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/xmr-stak-c.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/xmr-stak-backend.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/xmrstak_cuda_backend.dir
+/home/monero/build-x86_64-linux-gnu/CMakeFiles/xmr-stak.dir

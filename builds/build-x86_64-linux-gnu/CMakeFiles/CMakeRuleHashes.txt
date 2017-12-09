@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+9b5b1d89b82ed675ef6b339de7be03a8 CMakeFiles/xmrstak_cuda_backend.dir/xmrstak/backend/nvidia/nvcc_code/xmrstak_cuda_backend_generated_cuda_core.cu.o
+ba0c768cac4bf7a9aa4cd6ceed917957 CMakeFiles/xmrstak_cuda_backend.dir/xmrstak/backend/nvidia/nvcc_code/xmrstak_cuda_backend_generated_cuda_extra.cu.o
