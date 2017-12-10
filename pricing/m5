@@ -2,7 +2,13 @@ UE irlanda
 m5.4xlarge	$0.2311 por hora
 m5.12xlarge	$0.6934 por hora
 m5.24xlarge	$1.3867 por hora
+
 EE.UU Este (virginia)
+m5.4xlarge	$0.2212 por hora
+m5.12xlarge	$0.6636 por hora
+m5.24xlarge	$1.3271 por hora
+
+EE.UU Oeste
 m5.4xlarge	$0.2212 por hora	$0.9572 por hora
 m5.12xlarge	$0.6636 por hora	$2.8716 por hora
-m5.24xlarge	$1.3271 por hora
+m5.24xlarge	$1.3271 por hora	$5.7431 por hora
